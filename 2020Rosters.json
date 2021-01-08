@@ -91135,6 +91135,46 @@
       "Flg": "",
       "CSeasons": {},
       "CAwards": []
+    },
+    {
+      "Id": 2294,
+      "RefId": "2294",
+      "Ovr": 84,
+      "Sea": 2020,
+      "Rook": 2010,
+      "First": "Everson",
+      "Last": "Griffen",
+      "Team": "23",
+      "Coll": "USC",
+      "Num": 98,
+      "DOB": "12/22/1987",
+      "Exp": 10,
+      "Age": 32,
+      "Hgt": 63,
+      "Wgt": 273,
+      "Pos": "DE",
+      "Sal": 3000000.0,
+      "Yrs": 1,
+      "Attr": {
+        "Str": 92,
+        "Agi": 75,
+        "Arm": 15,
+        "Spe": 70,
+        "Han": 27,
+        "Intel": 88,
+        "Acc": 6,
+        "PBl": 45,
+        "RBl": 45,
+        "Tck": 88,
+        "KDi": 15,
+        "KAc": 14,
+        "End": 94
+      },
+      "Per": {},
+      "Skills": {},
+      "Flg": "",
+      "CSeasons": {},
+      "CAwards": []
     }
   ]
 }
