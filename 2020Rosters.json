@@ -91215,6 +91215,46 @@
       "Flg": "",
       "CSeasons": {},
       "CAwards": []
+    },
+    {
+      "Id": 2296,
+      "RefId": "2296",
+      "Ovr": 80,
+      "Sea": 2020,
+      "Rook": 2010,
+      "First": "Antonio",
+      "Last": "Brown",
+      "Team": "26",
+      "Coll": "Central Michigan",
+      "Num": 81,
+      "DOB": "7/10/1988",
+      "Exp": 10,
+      "Age": 31,
+      "Hgt": 61,
+      "Wgt": 185,
+      "Pos": "WR",
+      "Sal": 1000000.0,
+      "Yrs": 1,
+      "Attr": {
+        "Str": 64,
+        "Agi": 92,
+        "Arm": 27,
+        "Spe": 95,
+        "Han": 84,
+        "Intel": 84,
+        "Acc": 10,
+        "PBl": 38,
+        "RBl": 43,
+        "Tck": 26,
+        "KDi": 25,
+        "KAc": 15,
+        "End": 90
+      },
+      "Per": {},
+      "Skills": {},
+      "Flg": "",
+      "CSeasons": {},
+      "CAwards": []
     }
   ]
 }
